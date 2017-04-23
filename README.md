@@ -3,7 +3,7 @@
 >
 > *- me, often*
 
-SpaceCompare is a Windows GUI tool which compares two [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) snapshots and list which directories have increased in size.
+SpaceCompare is a Windows GUI tool which compares two [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) "Grouped by folder" snapshots and list which directories have increased in size.
 
 SpaceCompare is still an early tool and is very buggy! Currently:
 
