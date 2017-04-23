@@ -14,11 +14,10 @@ Both of these issues can be easily solved with time.
 
 ## Installation
 
-SpaceCompare doesn't need to be installed; it can just be extracted from a ZIP and run in a folder with a few DLLs it needs.
+SpaceCompare doesn't need to be installed!
 
-1. Download a ZIP from the releases page
-2. Extract it somewhere
-3. Run `SpaceCompare.exe`
+1. Download the EXE from [releases](https://github.com/OrangeFlash81/SpaceCompare/releases)
+2. Run it!
 
 ## Building
 
